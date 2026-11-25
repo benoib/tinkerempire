@@ -1,0 +1,9 @@
+{
+  "name": "tinkerempire",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public" },
+  "routes": [
+    { "pattern": "tinkerempire.com", "custom_domain": true },
+    { "pattern": "www.tinkerempire.com", "custom_domain": true }
+  ]
+}
